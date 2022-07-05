@@ -1,4 +1,4 @@
-# **BUILT WEB SERVER IN LOCAL SERVER** #
+# **BUILT WEB SERVER ON LOCAL SERVER** #
 
 ### 1. Clone repository from Github served by Dicoding. ###
 
